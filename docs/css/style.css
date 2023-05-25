@@ -81,3 +81,24 @@ left: 10px; /* 右から40pxのところにバナーを配置します */
     4px 5px #bbb,
     5px 10px 8px #000000;
 }
+
+/* HOME  */ 
+.home-content {
+  text-align : center;
+  margin-top:10%;
+}
+.home-content p {
+  font-size: 1.125rem;
+  color:white;
+  margin:10pc 0 42px;
+}
+#home {
+  background-image: url(main.png);
+  
+  min-height:100vh;
+  width:full;
+  height:500px;
+}
+#home .page-title {
+  text-transform: none;
+}
