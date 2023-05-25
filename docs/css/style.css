@@ -94,7 +94,6 @@ left: 10px; /* 右から40pxのところにバナーを配置します */
 }
 #home {
   background-image: url(main.png);
-  
   min-height:100vh;
   width:full;
   height:500px;
