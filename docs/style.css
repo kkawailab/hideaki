@@ -1,3 +1,6 @@
+@charset "UTF-8";
+
+
 .fixed-logo {
   width:150px;
   position: fixed; /* 追従させる為にfixedの値を記述します */
@@ -14,6 +17,7 @@ left: 10px; /* 右から40pxのところにバナーを配置します */
   margin-top: 34px;
   list-style: none;
   position: fixed;
+
    top:0;
    right:50px;
    margin-right:20px;
