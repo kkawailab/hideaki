@@ -117,7 +117,7 @@ left: 10px; /* 右から40pxのところにバナーを配置します */
   background-image: url(https://github.com/kkawailab/hideaki/blob/main/docs/css/main.png?raw=true);
   min-height:100vh;
   width:full;
-  height:500px;
+  height:400px;
 }
 #home .page-title {
   text-transform: none;
