@@ -108,6 +108,11 @@ left: 10px; /* 右から40pxのところにバナーを配置します */
   color:white;
   margin:10pc 0 42px;
 }
+/*背景画像*/
+.big-bg {
+  background-size:cover;
+  background-position: center top; 
+}
 #home {
   background-image: url(https://github.com/kkawailab/hideaki/blob/main/docs/css/main.png?raw=true);
   min-height:100vh;
