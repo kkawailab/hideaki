@@ -41,7 +41,7 @@ section {
 HERO
 ================================================ */
 .hero {
-    background-image: url(https://cdn.glitch.global/e527454e-7feb-42a3-baa3-52f296e517e7/imabari%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC.jpg?v=1720881492051);
+    background-image: url(https://cdn.glitch.global/3be9e0a3-520f-424a-9562-96668a2eed9f/imabari.jpg?v=1721020080350);
     text-align: center;
     padding-top: 10vh;
 }
@@ -50,7 +50,7 @@ HERO
 MENU
 ================================================ */
 .works {
-    background-image: url(https://cdn.glitch.global/e527454e-7feb-42a3-baa3-52f296e517e7/IMG_3308.jpg?v=1720884699092);
+    background-image: url(https://cdn.glitch.global/3be9e0a3-520f-424a-9562-96668a2eed9f/home.jpg?v=1721020084608);
     display: flex;
     align-items: center;
 }
@@ -58,7 +58,7 @@ MENU
   color: white
 }
 .gallery {
-    background-image: url(https://cdn.glitch.global/e527454e-7feb-42a3-baa3-52f296e517e7/home.jpg?v=1720882746956);
+    background-image: url(https://cdn.glitch.global/3be9e0a3-520f-424a-9562-96668a2eed9f/gallery-top.jpg?v=1721020089397);
     display: flex;
     align-items: center;
 }
@@ -87,7 +87,7 @@ MENU
 CONTACT
 ================================================ */
 .contact {
-    background-image: url(https://cdn.glitch.global/e527454e-7feb-42a3-baa3-52f296e517e7/cafe.jpg?v=1720879934330);
+    background-image: url(https://cdn.glitch.global/3be9e0a3-520f-424a-9562-96668a2eed9f/20220911-IMG_1294.JPG.jpg?v=1721020144751);
     text-align: center;
     padding-top: 8vh;
 }
@@ -95,10 +95,10 @@ CONTACT
     background: #555;
     font-size: 1.5rem;
     color: #fff;
-    padding: 1rem 3.5rem;
+    padding: 1rem 1rem;
     border-radius: 6px;
     display: inline-block;
-    margin: 2rem 0 2.25rem;
+    margin: 1rem 0 2rem;
 }
 .btn:hover {
     background: #777;
